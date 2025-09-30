@@ -24,7 +24,7 @@ const Table1 = () => {
                 <thead>
                     <tr>
                         <th>Sr No Prerna</th>
-                        <th>Name</th>
+                        <th>prerna</th>
                     </tr>
                 </thead>
                 <tbody>
