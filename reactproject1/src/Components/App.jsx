@@ -1,11 +1,11 @@
 import { useState } from 'react'
-import Table1 from './Components/Table1'
+import Dashboard from './Components/Dashboard'
 
 function App() {
 
   return (
       <>
-          <Table1/>
+          <Dashboard />
     </>
   )
 }
