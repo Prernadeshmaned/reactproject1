@@ -23,8 +23,12 @@ const Table1 = () => {
                 <caption>Employee List</caption>
                 <thead>
                     <tr>
-                        <th>Sr No Prerna</th>
-                        <th>prerna</th>
+
+                        <th>Sr No Harsha</th>
+                        <th>Name</th>
+      
+                 
+
                     </tr>
                 </thead>
                 <tbody>
